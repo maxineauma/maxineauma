@@ -11,4 +11,12 @@
 - 👩 Pronouns: She / They
 - 🍕 Fun fact: I can eat a double extra large pizza in under an hour
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmaxsaystransrights&count_bg=%23B08BC6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views+%28Daily%2FTotal%29&edge_flat=false)](https://hits.seeyoufarm.com)
+![](https://github-readme-stats.vercel.app/api?username=maxsaystransrights)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
