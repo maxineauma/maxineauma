@@ -11,7 +11,7 @@
 - 👩 Pronouns: She / They
 - 🍕 Fun fact: I can eat a double extra large pizza in under an hour
 
-![](https://github-readme-stats.vercel.app/api?username=maxsaystransrights)
+![](https://github-readme-stats.vercel.app/api?username=maxsaystransrights&include_all_commits=true&count_private=true&theme=dracula)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
