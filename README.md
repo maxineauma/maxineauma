@@ -9,7 +9,7 @@
 - 💬 Ask me about football or data science, or both! I love both! 
 - 📫 How to reach me: Email me at [maxineauma@gmail.com](mailto:maxineauma@gmail.com)!
 - 👩 Pronouns: She / They
-- 🍕 Fun fact: I once almost ran over Bruce Springsteen!
+- 🚗 Fun fact: I once almost ran over Bruce Springsteen!
 
 ![](https://github-readme-stats.vercel.app/api?username=maxsaystransrights&include_all_commits=true&count_private=true&theme=dracula&show_icons=true)
 
